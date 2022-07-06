@@ -43,11 +43,11 @@
     <Reference Include="Microsoft.Analytics.Types" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Endereco.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interface\" />
-    <Folder Include="Models\" />
     <Folder Include="Noticaficacoes\" />
     <Folder Include="Services\" />
     <Folder Include="Validations\" />
