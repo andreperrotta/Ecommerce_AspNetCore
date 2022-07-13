@@ -1,0 +1,12 @@
+﻿string A = "y";
+
+Console.WriteLine("Vai ter aula hoje? Digite 1 para Sim ou qualquer outro número para Não");
+A = string.Parse(Console.ReadLine());
+
+{
+    if (A == "y")
+        Console.WriteLine("Vai ter aula hoje");
+            else
+        Console.WriteLine("Não vai ter aula hoje");
+
+}

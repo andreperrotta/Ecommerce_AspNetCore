@@ -1,0 +1,15 @@
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\bin\Debug\net6.0\Vai ter Aula hoje.exe
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\bin\Debug\net6.0\Vai ter Aula hoje.deps.json
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\bin\Debug\net6.0\Vai ter Aula hoje.runtimeconfig.json
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\bin\Debug\net6.0\Vai ter Aula hoje.dll
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\bin\Debug\net6.0\Vai ter Aula hoje.pdb
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\Vai ter Aula hoje.csproj.AssemblyReference.cache
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\Vai ter Aula hoje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\Vai ter Aula hoje.AssemblyInfoInputs.cache
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\Vai ter Aula hoje.AssemblyInfo.cs
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\Vai ter Aula hoje.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\Vai ter Aula hoje.dll
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\refint\Vai ter Aula hoje.dll
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\Vai ter Aula hoje.pdb
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\Vai ter Aula hoje.genruntimeconfig.cache
+C:\Users\AP\source\repos\Vai ter aula hoje\Vai ter Aula hoje\Vai ter Aula hoje\obj\Debug\net6.0\ref\Vai ter Aula hoje.dll

@@ -44,6 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Endereco.cs" />
+    <Compile Include="Models\Entity.cs" />
+    <Compile Include="Models\Fornecedor.cs" />
+    <Compile Include="Models\Produto.cs" />
+    <Compile Include="Models\TipoFornecedor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

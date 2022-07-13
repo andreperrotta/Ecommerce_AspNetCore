@@ -1,0 +1,10 @@
+C:\Users\AP\source\repos\Ecommerce\Src\Business\bin\Debug\Business.dll
+C:\Users\AP\source\repos\Ecommerce\Src\Business\bin\Debug\Business.pdb
+C:\Users\AP\source\repos\Ecommerce\Src\Business\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\AP\source\repos\Ecommerce\Src\Business\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\AP\source\repos\Ecommerce\Src\Business\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\AP\source\repos\Ecommerce\Src\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\AP\source\repos\Ecommerce\Src\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\Ecommerce\Src\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\AP\source\repos\Ecommerce\Src\Business\obj\Debug\Business.dll
+C:\Users\AP\source\repos\Ecommerce\Src\Business\obj\Debug\Business.pdb
