@@ -10,8 +10,8 @@ namespace Business.Models
     {
         protected Entity()
         {
-            ID = Guid.NewGuid();
+            Id = Guid.NewGuid();
         }
-        public Guid ID { get; set; }
+        public Guid Id { get; set; }
     }
 }
