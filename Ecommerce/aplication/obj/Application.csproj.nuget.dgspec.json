@@ -31,7 +31,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Data\\Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -85,6 +89,40 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Business\\Business.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Business\\Business.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Data\\Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Data\\Data.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\AP\\source\\repos\\Ecommerce\\Src\\Business\\Business.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
